@@ -27,7 +27,6 @@
       fill="white"
     />
   </svg>
-  <p>Hello</p>
 </template>
 
 <style scoped>
