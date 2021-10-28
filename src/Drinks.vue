@@ -3,7 +3,7 @@
   <div class="food">
     <div class="drinks">
       <div class="img-wrap">
-        <img src="src\assets\1.png" />
+        <img src="./assets/1.png" />
       </div>
       <div class="words">
         <h3>Chocolate Ice Tea</h3>
@@ -18,7 +18,7 @@
     </div>
     <div class="drinks">
       <div class="img-wrap">
-        <img src="src\assets\3.png" />
+        <img src="./assets/3.png" />
       </div>
       <div class="words">
         <h3>Sparkling Green Tea</h3>
@@ -31,7 +31,7 @@
     </div>
     <div class="drinks">
       <div class="img-wrap">
-        <img src="src\assets\2.png" />
+        <img src="./assets/2.png" />
       </div>
       <div class="words">
         <h3>Pomegrante Tea</h3>
@@ -44,7 +44,7 @@
     </div>
     <div class="drinks">
       <div class="img-wrap">
-        <img src="src\assets\4.png" />
+        <img src="./assets/4.png" />
       </div>
       <div class="words">
         <h3>Milky Iced Tea</h3>
@@ -71,8 +71,6 @@
     />
   </svg>
 </template>
-
-
 
 <style scoped>
 h1 {
