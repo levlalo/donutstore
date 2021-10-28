@@ -2,7 +2,7 @@
   <header class="header">
     <div class="container">
       <div class="inhead">
-        <img alt="Donut logo" src="src\assets\logoDonut.png" />
+        <img alt="Donut logo" src="./assets/logoDonut.png" />
         <nav>
           <a class="nav_to" href="#">Eat Me</a>
           <a class="nav_to" href="#">Drink Me</a>
