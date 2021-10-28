@@ -3,7 +3,7 @@
   <div class="food">
     <div class="donut">
       <div class="img-wrap">
-        <img src="src\assets\chok.png" />
+        <img src="./assets/chok.png" />
       </div>
       <div class="words">
         <h3>Chocolate Wheal</h3>
@@ -19,7 +19,7 @@
     </div>
     <div class="donut">
       <div class="img-wrap">
-        <img src="src\assets\pink.png" />
+        <img src="./assets/pink.png" />
       </div>
       <div class="words">
         <h3>Strawbery Miracle</h3>
@@ -35,7 +35,7 @@
     </div>
     <div class="donut">
       <div class="img-wrap">
-        <img src="src\assets\milk.png" />
+        <img src="./assets/milk.png" />
       </div>
       <div class="words">
         <h3>Vanilla Joy</h3>
@@ -51,8 +51,6 @@
     </div>
   </div>
 </template>
-
-
 
 <style scoped>
 h1 {
