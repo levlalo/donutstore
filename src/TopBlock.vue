@@ -10,7 +10,7 @@
       <div class="order"><a href="#">Order Online</a></div>
     </div>
     <div class="donuts">
-      <img src="src\assets\donuts.png" />
+      <img src="./assets/donuts.png" />
     </div>
   </div>
   <svg viewBox="0 0 1440 70" fill="none" xmlns="http://www.w3.org/2000/svg">
